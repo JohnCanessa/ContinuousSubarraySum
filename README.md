@@ -7,7 +7,7 @@ It requires an approach that reduces the number of computations when using a bru
 
 If interested in my comments please take a look at the following post on my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/11/26/continuous-subarray-sum/
 
 Keep on reading and experimenting; it is the best way to learn.
 
